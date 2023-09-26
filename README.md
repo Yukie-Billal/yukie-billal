@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my profile<br><br>🌱 I’m currently learning Python
+Welcome to my profile<br><br>🌱 I’m currently learning Vue js
 
 
 ## 🌐 Socials:
