@@ -1,8 +1,9 @@
-# 💫 About Me:
-Welcome to my profile<br><br>🌱 I’m currently learning Vue js
+Yukie Muhammad Billal<br>
+19 y.o <br><br>
+🌱 I’m currently learning Vue js
 
 
-## 🌐 Socials:
+## 🌐 Link to me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yukie-muhammad-billal-b3bb59271) 
 
 # 💻 Tech Stack:
