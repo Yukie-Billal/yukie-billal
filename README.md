@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yukie Muhammad Billal</h1>
 <h3 align="center">Fullstack web dev from indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yukie-billal&label=Profile%20views&color=0e75b6&style=flat" alt="yukie-billal" /> </p>
-
-
-
 - 🌱 I’m currently learning **Vuejs & expressjs**
 
 - 📫 How to reach me **yukiembillal01@gmail.com**
