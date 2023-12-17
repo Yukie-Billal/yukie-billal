@@ -2,7 +2,7 @@
 <h3 align="left">Fullstack web dev from indonesia</h3>
 
 
-- 🌱 I’m currently learning **Reacctjs, Vuejs**
+- 🌱 I’m currently learning **Reactjs, Vuejs**
 
 - 📫 How to reach me **yukiembillal01@gmail.com**
 
