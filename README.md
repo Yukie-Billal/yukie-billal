@@ -15,6 +15,26 @@
 
 <h3>Stats</h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yukie-billal&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="yukie-billal" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yukie-billal&show_icons=true&locale=en&theme=radical&hide_border=true" alt="yukie-billal" />
-[![Yukie-Billal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukie-billal)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yukie-billal&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yukie-billal&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yukie-billal&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yukie-billal&show_icons=true&theme=radical&hide_border=true\&include_all_commits=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yukie-billal&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yukie-billal&show_icons=true" />
+</picture>
