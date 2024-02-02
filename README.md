@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yukie Muhammad Billal</h1>
-<h3 align="left">Fullstack web dev from indonesia</h3>
+<h3 align="left">Junior fullstack web dev from indonesia</h3>
 
 
 - 🌱 I’m currently learning **Reactjs, nuxtjs, typescript**
