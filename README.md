@@ -42,5 +42,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=yukie-billal&show_icons=true" />
     </picture>
   </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical&hide_border=true" alt="Yukie-Billal" />
+  </p>
 </div>
 
