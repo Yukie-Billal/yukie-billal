@@ -43,7 +43,7 @@
     </picture>
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yukie-muhammad-billal&layout=compact&theme=radical&hide_border=true" alt="Yukie-Billal" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yukie_billal&layout=compact&theme=radical&hide_border=true" alt="Yukie-Billal" />
   </p>
 </div>
 
