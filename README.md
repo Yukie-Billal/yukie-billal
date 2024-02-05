@@ -2,7 +2,7 @@
 <h3 align="left">Junior fullstack web dev from indonesia</h3>
 
 
-- 🌱 I’m currently learning **Reactjs, nuxtjs, typescript**
+- 🌱 I’m currently learning **Reactjs, nuxtjs, typescript, linux**
 
 - 📫 How to reach me **yukiembillal01@gmail.com**
 
