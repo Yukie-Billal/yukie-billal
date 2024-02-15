@@ -1,15 +1,6 @@
 <h1 align="left">Hi 👋, I'm Yukie Muhammad Billal</h1>
 <h3 align="left">Junior fullstack web dev from indonesia</h3>
 
-
-- 🌱 I’m currently learning **Reactjs, nuxtjs, typescript, linux**
-
-- 📫 How to reach me **yukiembillal01@gmail.com**
-
-- 🔭 I'm interested on desktop application. Like c++ or c#
-
-- Currently project: open source projeck [Chat app](https://github.com/Yukie-Billal/chat-app) n more open source project in [my repository](https://github.com/Yukie-Billal?tab=repositories)
-
 <h3 align="left">Ongoing skill</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=typescript,c,bash,docker,linux,mongodb,py&perline=10" alt="ongoing skills" />
