@@ -54,3 +54,11 @@
   </p>
 </div>
 
+<p align="left">
+  <a href="yukiembillal01@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="yukie gmail" />
+  </a>
+  <a href="https://www.instagram.com/yukie_m_billal/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
+  </a>
+</p>
