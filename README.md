@@ -10,9 +10,14 @@
 
 - Currently project: open source projeck [Chat app](https://github.com/Yukie-Billal/chat-app) n more open source project in [my repository](https://github.com/Yukie-Billal?tab=repositories)
 
+<h3 align="left">Ongoing skill</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,c,bash,docker,linux,mongodb,py&perline=10" alt="ongoing skills" />
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=css,html,sass,tailwindcss,bootstrap,javascript,react,vue,nuxt,nodejs,python,flask,mysql,postman,git,github&perline=10" alt="my skills" />
+  <img src="https://skillicons.dev/icons?i=css,html,sass,tailwindcss,bootstrap,javascript,react,vue,nuxt,nodejs,python,flask,mysql,vscode,postman,git,github&perline=10" alt="my skills" />
 </p>
 
 <div align="left">
