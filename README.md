@@ -3,7 +3,7 @@
 
 <h3 align="left">Ongoing skill</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,c,bash,docker,linux,mongodb,py&perline=10" alt="ongoing skills" />
+  <img src="https://skillicons.dev/icons?i=typescript,c,cpp,bash,docker,linux,mongodb,py&perline=10" alt="ongoing skills" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
