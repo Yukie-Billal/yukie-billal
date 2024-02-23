@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yukie Muhammad Billal</h1>
-<h2 align="center">Junior developer</h2>
+<h3 align="center">Junior developer</h3>
 
 <h3 align="center">Ongoing skill</h3>
 <p align="center">
