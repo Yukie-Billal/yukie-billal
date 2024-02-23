@@ -1,17 +1,20 @@
-<h1 align="left">Hi 👋, I'm Yukie Muhammad Billal</h1>
-<h3 align="left">Junior fullstack web dev from indonesia</h3>
+<h1 align="center">Hi 👋, I'm Yukie Muhammad Billal</h1>
+<h3 align="center">Junior fullstack web dev from indonesia</h3>
 
-<h3 align="left">Ongoing skill</h3>
-<p align="left">
+<h3 align="center">Ongoing skill</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,c,cpp,bash,docker,linux,mongodb,py,django,postgres&perline=10" alt="ongoing skills" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=css,html,sass,tailwindcss,bootstrap,javascript,react,vue,nuxt,nodejs,python,flask,mysql,vscode,postman,git,github&perline=10" alt="my skills" />
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css,html,sass,tailwindcss,bootstrap,javascript,react,vue,nuxt,nodejs&perline=10" alt="my skills" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,vscode,postman,git,github&perline=10" alt="my skills" />
 </p>
 
-<div align="left">
+<div align="center">
   <h3>Stats</h3>
 
   <p>
@@ -45,7 +48,7 @@
   </p>
 </div>
 
-<p align="left">
+<p align="center">
   <a href="mailto:yukiembillal01@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="yukie gmail" />
   </a>
