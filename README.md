@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yukie Muhammad Billal</h1>
 <h3 align="center">Junior developer</h3>
 
-<h3 align="center">Ongoing skill</h3>
+<h3 align="center">Ongoing</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,c,cpp,bash,docker,linux,mongodb,neovim,django,postgres&perline=10" alt="ongoing skills" />
 </p>
