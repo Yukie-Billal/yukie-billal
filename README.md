@@ -1,7 +1,13 @@
 <h1 align="center">Yukie Muhammad Billal</h1>
 <h3 align="center">Junior web developer</h3>
 
-<h3 align="center">Ongoing</h3>
+<h3 align="center">Currently progress</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript" />
+</p>
+
+
+<h3 align="center">On progress</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,c,cpp,bash,docker,linux,mongodb,neovim,django,postgres&perline=10" alt="ongoing skills" />
 </p>
