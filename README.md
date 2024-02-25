@@ -1,13 +1,6 @@
 <h1 align="center">Yukie Muhammad Billal</h1>
 <h3 align="center">Junior web developer</h3>
 
-<h3 align="center">Today</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,github" alt="today" />
-  <p align="center">Github action & bash script</p>
-</p>
-
-
 <h3 align="center">Ongoing</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,c,cpp,bash,docker,linux,mongodb,neovim,django,postgres&perline=10" alt="ongoing skills" />
