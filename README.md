@@ -3,7 +3,7 @@
 
 <h3 align="center">Currently progress</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=typescript,bash" />
 </p>
 
 
