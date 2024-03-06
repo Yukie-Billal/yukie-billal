@@ -1,5 +1,5 @@
 <h1 align="center">Yukie Muhammad Billal</h1>
-<h3 align="center">Junior web developer</h3>
+<h3 align="center">Junior developer</h3>
 
 <h3 align="center">Currently progress</h3>
 <p align="center">
