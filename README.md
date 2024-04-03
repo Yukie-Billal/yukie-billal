@@ -9,15 +9,15 @@
 
 <h3 align="center">On progress</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,c,cpp,bash,docker,linux,mongodb,neovim,django,postgres,python,redis" alt="ongoing skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,docker,linux,mongodb,neovim,django,postgres,python,redis,php" alt="ongoing skills" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,html,sass,tailwindcss,bootstrap,javascript,react,vue,nuxt,nodejs&perline=10" alt="my skills" />
+  <img src="https://skillicons.dev/icons?i=css,html,sass,tailwindcss,bootstrap,javascript,typescript,react,vue,nuxt&perline=10" alt="my skills" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql,vscode,postman,git,github&perline=10" alt="my skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,mysql,vscode,postman,git,github&perline=10" alt="my skills" />
 </p>
 
 <div align="center">
