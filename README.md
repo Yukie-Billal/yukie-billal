@@ -17,7 +17,7 @@
 
 <h3 align="center">On progress</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,docker,linux,mongodb,neovim,django,postgres,python,redis,php" alt="ongoing skills" />
+  <img src="https://skillicons.dev/icons?i=bash,docker,linux,mongodb,neovim,django,postgres,python,redis,php" alt="ongoing skills" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
