@@ -7,7 +7,7 @@
    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝     ╚═════╝ ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝
                                                                                                                                                                   
 ```
-<h3 align="center">Junior developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <h3 align="center">Currently progress</h3>
 <p align="center">
