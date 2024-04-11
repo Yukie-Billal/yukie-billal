@@ -11,7 +11,7 @@
 
 <h3 align="center">Currently progress</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nuxt" />
+  <img src="https://skillicons.dev/icons?i=typescript,nuxt,laravel,php" />
 </p>
 
 <h3 align="center">On progress</h3>
