@@ -5,7 +5,7 @@
   <img src="https://skillicons.dev/icons?i=typescript,nuxt,laravel,php" />
 </p>
 
-<h3 align="center">On progress</h3>
+<h3 align="center">Target progress</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,docker,linux,mongodb,neovim,django,postgres,python,redis" alt="ongoing skills" />
 </p>
