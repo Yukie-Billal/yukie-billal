@@ -53,6 +53,10 @@
 </div>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yukie-billal&color=brightgreen" />
+</p>
+
+<p align="center">
   <a href="mailto:yukiembillal01@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="yukie gmail" />
   </a>
