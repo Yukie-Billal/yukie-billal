@@ -1,4 +1,10 @@
-<img src="github-header.png" alt="Yukie Muhammad Billal" />
+<div align="center">
+  <img src="github-header.png" alt="Yukie Muhammad Billal" />
+</div>
+
+<div align="center">
+  <img src="https://lanyard.cnrad.dev/api/916938902785380353?showDisplayName=true" />
+</div>
 
 <h3 align="center">Currently progress</h3>
 <p align="center">
