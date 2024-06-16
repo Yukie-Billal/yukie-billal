@@ -8,7 +8,7 @@
 
 <h3 align="center">Currently progress</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,laravel,bun,bash,docker" />
+  <img src="https://skillicons.dev/icons?i=typescript,laravel,bun,bash,docker,mongo" />
 </p>
 
 <h3 align="center">Target progress</h3>
