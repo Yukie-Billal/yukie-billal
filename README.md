@@ -72,4 +72,7 @@
   <a href="https://www.linkedin.com/in/yukie-muhammad-billal-b3bb59271">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="instagram" />
   </a>
+  <a href="https://discord.com/users/916938902785380353">
+    <img src="https://skillicons.dev/icons?i=discord" alt="discord" />
+  </a>
 </p>
