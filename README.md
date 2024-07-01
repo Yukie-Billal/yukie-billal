@@ -2,9 +2,13 @@
   <img src="github-header.png" alt="Yukie Muhammad Billal" />
 </div>
 
-<div align="center">
+---
+
+<div  align="center">
   <img src="https://lanyard.cnrad.dev/api/916938902785380353?showDisplayName=true" />
 </div>
+
+---
 
 <h3 align="center">Currently progress</h3>
 <p align="center">
@@ -23,6 +27,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,python,flask,mysql,vscode,postman,git,github,laravel,php&perline=10" alt="my skills" />
 </p>
+
+---
 
 <div align="center">
   <h3>Stats</h3>
@@ -61,6 +67,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yukie-billal&color=brightgreen" />
 </p>
+
+---
 
 <p align="center">
   <a href="mailto:yukiembillal01@gmail.com">
