@@ -17,7 +17,7 @@
 
 <h3 align="center">Target progress</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,docker,linux,mongodb,neovim,django,postgres,redis" alt="ongoing skills" />
+  <img src="https://skillicons.dev/icons?i=bash,docker,linux,mongodb,neovim,django,postgres,redis,bun" alt="ongoing skills" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
