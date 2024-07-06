@@ -12,7 +12,7 @@
 
 <h3 align="center">Currently progress</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,react,laravel" />
+  <img src="https://skillicons.dev/icons?i=docker,react,larave,typescriptl" />
 </p>
 
 <h3 align="center">Target progress</h3>
