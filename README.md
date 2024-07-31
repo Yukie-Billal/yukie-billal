@@ -27,7 +27,7 @@
   <p>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yukie-billal&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yukie-billal&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -40,7 +40,7 @@
   <p>
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=yukie-billal&show_icons=true&theme=radical&hide_border=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=yukie-billal&show_icons=true&theme=transparent&hide_border=true"
         media="(prefers-color-scheme: dark)"
       />
       <source
@@ -51,7 +51,7 @@
     </picture>
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yukie_billal&layout=compact&theme=radical&hide_border=true" alt="Yukie-Billal" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yukie_billal&layout=compact&theme=transparent&hide_border=true" alt="Yukie-Billal" />
   </p>
 </div>
 
