@@ -4,12 +4,6 @@
 
 ---
 
-<div  align="center">
-  <img src="https://lanyard.cnrad.dev/api/916938902785380353?showDisplayName=true" />
-</div>
-
----
-
 <h3 align="center">Currently progress</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,laravel,typescript" />
