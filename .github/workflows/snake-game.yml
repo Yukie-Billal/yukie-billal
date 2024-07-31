@@ -1,0 +1,40 @@
+name: Generate Snake Game
+
+on:
+  schedule: # Runs at 12am UTC every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+
+    steps:
+      # Checkout the repository
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # Generate the snake game from the contribution grid
+      - name: Generate Snake Game from GitHub Contribution Grid
+        uses: Platane/snk@v2.0.0
+        with:
+          github_user_name: YOUR_GITHUB_USERNAME
+          gif_out_path: dist/github-contribution-grid-snake.gif
+
+      # Upload the generated GIF as an artifact
+      - name: Upload Snake Game
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-game
+          path: dist/github-contribution-grid-snake.gif
+
+      # (Optional) Push the GIF to your repository
+      - name: Commit and push if there are changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: "Generate snake game from contribution grid"
+          add: dist/github-contribution-grid-snake.gif
+          branch: main
