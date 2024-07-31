@@ -19,7 +19,7 @@ jobs:
       - name: Generate Snake Game from GitHub Contribution Grid
         uses: Platane/snk@v2.0.0
         with:
-          github_user_name: YOUR_GITHUB_USERNAME
+          github_user_name: Yukie-Billal
           gif_out_path: dist/github-contribution-grid-snake.gif
 
       # Upload the generated GIF as an artifact
