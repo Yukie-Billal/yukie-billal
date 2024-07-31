@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="github-header.png" alt="Yukie Muhammad Billal" />
-</div>
-
+![Banner](./github-header.png)
 ---
 
 <h3 align="center">Currently progress</h3>
