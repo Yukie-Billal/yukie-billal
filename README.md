@@ -25,7 +25,7 @@ server.listen(3000, "127.0.0.1", () => console.log("hi!"))
   <img src="https://skillicons.dev/icons?i=javascript,python,nodejs" alt="Learning" />
 </p>
 
-<details><summary><h2 style="display: inline-block">More</h2></summary>
+<details align="center"><summary><h2 style="display: inline-block;">Explore more</h2></summary>
 <h3 align="center">Learning</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,laravel,typescript,arduino" alt="Learning" />
@@ -49,9 +49,8 @@ server.listen(3000, "127.0.0.1", () => console.log("hi!"))
 </p>
 </details>
 
----
 
-<details><summary><h1 style="display: inline-block">Stats</h1></summary>
+<details align="center"><summary><h2 style="display: inline-block">Statistics</h2></summary>
 
 <hr />
 
