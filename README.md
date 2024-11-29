@@ -10,22 +10,28 @@ const server = createServer((req, res) => {
       hobby: ["Photography", "Games", "Space", "Listen to music"],
       age: 20,
       gender: "♂️",
-      website: "<a target='_blank'>https://yukie.site</a>"
+      website: "https://yukie.site",
+      status: "Maintenance"
    }))
 })
 
 server.listen(3000, "127.0.0.1", () => console.log("hi!"))
 ```
 
-<!-- ![Banner](./github-header.png) -->
 ---
 
+<h3 align="center">Main Language</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,python,nodejs" alt="Learning" />
+</p>
+
+<details><summary><h2 style="display: inline-block">More</h2></summary>
 <h3 align="center">Learning</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,laravel,typescript,arduino" alt="Learning" />
 </p>
 
-<h3 align="center">I Want It</h3>
+<h3 align="center">Interested</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,docker,linux,mongodb,neovim,django,postgres,redis,bun" alt="ongoing skills" />
 </p>
@@ -41,8 +47,11 @@ server.listen(3000, "127.0.0.1", () => console.log("hi!"))
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,postman,git,github&perline=10" alt="Tools" />
 </p>
+</details>
 
-<details><summary>Stats</summary>
+---
+
+<details><summary><h1 style="display: inline-block">Stats</h1></summary>
 
 <hr />
 
