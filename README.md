@@ -22,18 +22,18 @@ server.listen(3000, "127.0.0.1", () => console.log("hi!"))
 
 <h3 align="center">Main Language</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,python,nodejs" alt="Learning" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,nodejs,php" alt="Learning" />
 </p>
 
 <details align="center"><summary><h2 style="display: inline-block;">Explore more</h2></summary>
 <h3 align="center">Learning</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,laravel,typescript,arduino" alt="Learning" />
+  <img src="https://skillicons.dev/icons?i=laravel,typescript,docker" alt="Learning" />
 </p>
 
 <h3 align="center">Interested</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,docker,linux,mongodb,neovim,django,postgres,redis,bun" alt="ongoing skills" />
+  <img src="https://skillicons.dev/icons?i=bash,docker,linux,mongodb,neovim,django,postgres,redis,bun,arduino" alt="ongoing skills" />
 </p>
 
 <h3 align="center">Languages</h3>
