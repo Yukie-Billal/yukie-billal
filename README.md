@@ -50,46 +50,6 @@ server.listen(3000, "127.0.0.1", () => console.log("hi!"))
 </details>
 
 
-<details align="center"><summary><h2 style="display: inline-block">Statistics</h2></summary>
-
-<hr />
-
-<div align="center">
-<h3>Stats</h3>
-
-<p>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yukie-billal&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yukie-billal&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yukie-billal&show_icons=true" />
-</picture>
-</p>
-<p>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=yukie-billal&show_icons=true&theme=transparent&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=yukie-billal&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=yukie-billal&show_icons=true" />
-  </picture>
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yukie_billal&layout=compact&theme=transparent&hide_border=true" alt="Yukie-Billal" />
-</p>
-</div>
-
-</details>
-
 ---
 
 <p align="center">
